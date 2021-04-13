@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T01:04:57.988Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="PcNMi28t_59mnfSXjKoY" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T03:26:54.261Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="xEaKnNeTW2f0L-z1X6Yg" version="14.5.10" type="github" pages="2">
   <diagram id="dWF1RltU0FPNa0JGIlGJ" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,6 +192,41 @@
             <mxPoint x="609.79" y="840" as="sourcePoint" />
             <mxPoint x="609.79" y="800" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5_wgysib-xcQwIWfZKgP" name="第 2 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="dNzfgaAq32NQelumYsmY-0" />
+        <mxCell id="dNzfgaAq32NQelumYsmY-1" parent="dNzfgaAq32NQelumYsmY-0" />
+        <mxCell id="dNzfgaAq32NQelumYsmY-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dNzfgaAq32NQelumYsmY-1">
+          <mxGeometry x="50" y="260" width="190" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="dNzfgaAq32NQelumYsmY-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82B366;strokeWidth=2;dashed=1;" vertex="1" parent="dNzfgaAq32NQelumYsmY-1">
+          <mxGeometry x="55" y="415" width="640" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dNzfgaAq32NQelumYsmY-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="dNzfgaAq32NQelumYsmY-1">
+          <mxGeometry x="60" y="500" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dNzfgaAq32NQelumYsmY-6" value="OS层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dNzfgaAq32NQelumYsmY-1">
+          <mxGeometry x="120" y="500" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dNzfgaAq32NQelumYsmY-8" value="Windows" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNzfgaAq32NQelumYsmY-1">
+          <mxGeometry x="120" y="525" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dNzfgaAq32NQelumYsmY-9" value="RTOS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNzfgaAq32NQelumYsmY-1">
+          <mxGeometry x="175" y="525" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dNzfgaAq32NQelumYsmY-10" value="File" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNzfgaAq32NQelumYsmY-1">
+          <mxGeometry x="60" y="460" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dNzfgaAq32NQelumYsmY-11" value="Linux" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNzfgaAq32NQelumYsmY-1">
+          <mxGeometry x="65" y="525" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dNzfgaAq32NQelumYsmY-14" value="Data-Center Publish-Subscribe" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNzfgaAq32NQelumYsmY-1">
+          <mxGeometry x="60" y="420" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
